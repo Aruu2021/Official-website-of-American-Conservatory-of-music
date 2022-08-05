@@ -83,7 +83,7 @@ www.ccny.cuny.edu.music
 www.gc.CUNY.edu/music
 ## O 
 - **欧柏林音乐学院**<br>
-oberlin.edu/conservatory
+www.oberlin.edu/conservatory
 ## P 
 - **普林斯顿大学**音乐系（全奖）<br>
 www.music.princeton.edu
@@ -104,7 +104,7 @@ www.CCM.UC.edu
 - **新英格兰音乐学院**<br>
 www.necmusic.edu
 - **雪城大学**赛特诺音乐学院（无博士项目）<br>
-vpa.syr.edu/academics/music
+www.vpa.syr.edu/academics/music
 ## Y 
 - **耶鲁大学**音乐系（全奖）<br>
 www.yalemusic.yale.edu
