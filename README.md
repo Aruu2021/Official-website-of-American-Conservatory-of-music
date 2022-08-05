@@ -72,15 +72,15 @@ www.music.msu.edu
 cla.umm.edu/music
 ## N 
 - **南加州大学**桑顿音乐学院<br>
-www.music.USC.edu
+music.USC.edu
 - **纽约大学**音乐系<br>
 www.as.nyu.edu/music.html
 - **纽约市立大学皇后学院**阿隆科普兰音乐学院<br>
-www.qcpages.QC.CUNY.edu/music
+qcpages.QC.CUNY.edu/music
 - **纽约市立大学城市学院**音乐系<br>
-www.ccny.cuny.edu.music
+ccny.cuny.edu.music
 - **纽约市立大学研究生中心**音乐研究中心（音乐博士项目）<br>
-www.gc.CUNY.edu/music
+gc.CUNY.edu/music
 ## O 
 - **欧柏林音乐学院**<br>
 www.oberlin.edu/conservatory
