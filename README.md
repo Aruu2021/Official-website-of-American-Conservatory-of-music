@@ -3,23 +3,23 @@
 ## A 
 ## B 
 - **宾夕法尼亚大学**音乐系<br>
-music.sas.upenn.edu
+www.music.sas.upenn.edu
 - **宾夕法尼亚州立大学**音乐学院<br>
 music.PSU.edu
 - **布朗大学**音乐系<br>
-music.brown.edu
+www.music.brown.edu
 ## C 
 ## D 
 - **德克萨斯大学奥斯汀分校**巴特勒音乐学院<br>
-music.utexas.edu
+www.music.utexas.edu
 - **杜克大学**音乐系<br>
 music.duke.edu
 ## E 
 - **俄亥俄州立大学**音乐学院<br>
-music.OSU.edu
+www.music.OSU.edu
 ## F 
 - **佛罗里达州立大学**音乐学院<br>
-music.FSU.edu
+www.music.FSU.edu
 ## G 
 - **哥伦比亚大学**音乐系（全奖）<br>
 music.columbia.edu
