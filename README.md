@@ -39,7 +39,7 @@ www.music-CMS.UCSD.edu
 www.sfcm.edu
 ## K 
 - **卡耐基梅隆大学**音乐学院<br>
-cmu.edu/cfa/music
+www.cmu.edu/cfa/music
 - **康奈尔大学**音乐系<br>
 www.music.Cornell.edu
 - **科蒂斯音乐学院**（无博士项目）<br>
@@ -54,12 +54,12 @@ www.music.rice.edu
 - **罗彻斯特大学**伊斯曼音乐学院<br>
 www.esm.rochester.edu
 - **罗彻斯特大学**亚瑟萨茨音乐系<br>
-sas.rochester.edu/mur
+www.sas.rochester.edu/mur
 ## M 
 - **马里兰大学**音乐学院<br>
 www.music.UMD.edu
 - **麻省大学阿默斯特分校**音乐舞蹈系（无博士项目）<br>
-UMass.edu/music
+www.UMass.edu/music
 - **麻省理工大学**音乐与戏剧艺术系（不招生）<br>
 www.mta.mit.edu
 - **曼哈顿音乐学院**<br>
@@ -74,9 +74,9 @@ www.cla.umm.edu/music
 - **南加州大学**桑顿音乐学院<br>
 www.music.USC.edu
 - **纽约大学**音乐系<br>
-as.nyu.edu/music.html
+www.as.nyu.edu/music.html
 - **纽约市立大学皇后学院**阿隆科普兰音乐学院<br>
-qcpages.QC.CUNY.edu/music
+www.qcpages.QC.CUNY.edu/music
 - **纽约市立大学城市学院**音乐系<br>
 www.ccny.cuny.edu.music
 - **纽约市立大学研究生中心**音乐研究中心（音乐博士项目）<br>
