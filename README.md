@@ -30,11 +30,11 @@ www.music.fas.Harvard.edu
 www.music.washington.edu
 ## J 
 - **加州大学伯克利分校**音乐系<br>
-www.music.berkeley.edu
+music.berkeley.edu
 - **加州大学洛杉矶分校**赫布阿尔伯特音乐学院<br>
 www.schoolofmusic.UCLA.edu
 - **加州大学圣地亚哥分校**音乐系<br>
-www.music-CMS.UCSD.edu
+music-CMS.UCSD.edu
 - **旧金山音乐学院**<br>
 www.sfcm.edu
 ## K 
