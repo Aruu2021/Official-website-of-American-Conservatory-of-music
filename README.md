@@ -57,19 +57,19 @@ www.esm.rochester.edu
 www.sas.rochester.edu/mur
 ## M 
 - **马里兰大学**音乐学院<br>
-www.music.UMD.edu
+music.UMD.edu
 - **麻省大学阿默斯特分校**音乐舞蹈系（无博士项目）<br>
 www.UMass.edu/music
 - **麻省理工大学**音乐与戏剧艺术系（不招生）<br>
-www.mta.mit.edu
+mta.mit.edu
 - **曼哈顿音乐学院**<br>
 www.MSMNYC.edu
 - **密歇根大学**音乐、戏剧与舞蹈学院<br>
-www.smtd.umich.edu
+smtd.umich.edu
 - **密歇根州立大学**音乐学院<br>
 www.music.msu.edu
 - **明尼苏达大学**音乐学院<br>
-www.cla.umm.edu/music
+cla.umm.edu/music
 ## N 
 - **南加州大学**桑顿音乐学院<br>
 www.music.USC.edu
