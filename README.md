@@ -91,7 +91,7 @@ www.music.princeton.edu
 ## R 
 ## S 
 - **斯坦福大学**音乐系<br>
-www.music.stanford.edu
+music.stanford.edu
 ## T 
 ## W 
 - **威斯康星大学麦迪逊分校**米德威特音乐学院<br>
@@ -104,12 +104,12 @@ www.CCM.UC.edu
 - **新英格兰音乐学院**<br>
 www.necmusic.edu
 - **雪城大学**赛特诺音乐学院（无博士项目）<br>
-www.vpa.syr.edu/academics/music
+vpa.syr.edu/academics/music
 ## Y 
 - **耶鲁大学**音乐系（全奖）<br>
-www.yalemusic.yale.edu
+yalemusic.yale.edu
 - **耶鲁大学**音乐学院（全奖）<br>
-www.music.yale.edu
+music.yale.edu
 - **伊利诺伊大学香槟分校**音乐学院（无理论博士）<br>
 www.music.Illinois.edu
 - **印第安纳大学**雅各布音乐学院<br>
@@ -117,9 +117,9 @@ www.music.Indiana.edu
 - **犹他大学**音乐学院<br>
 www.music.Utah.edu
 - **约翰霍普金斯大学**皮博迪音乐学院<br>
-www.Peabody.just.edu
+Peabody.just.edu
 ## Z 
 - **芝加哥大学**音乐系<br>
-www.music.uchicago.edu
+music.uchicago.edu
 - **茱莉亚音乐学院**（无博士项目）<br>
 www.Juilliard.edu
