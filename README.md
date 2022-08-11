@@ -103,6 +103,8 @@ music.princeton.edu
 ## S 
 - **斯坦福大学**[音乐系](https://music.stanford.edu)<br>
 music.stanford.edu
+- **石溪大学**[音乐系](https://www.stonybrook.edu/music)<br>
+www.stonybrook.edu/music
 ## T 
 ## W 
 - **威斯康星大学麦迪逊分校**[米德威特音乐学院](https://music.wisc.edu)<br>
@@ -133,5 +135,7 @@ peabody.jhu.edu
 ## Z 
 - **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
 music.uchicago.edu
+- **佐治亚理工大学**[音乐学院] (https://music.gatech.edu)<br>
+music.gatech.edu
 - [茱莉亚音乐学院](https://juilliard.edu)（无博士项目）<br>
 juilliard.edu
