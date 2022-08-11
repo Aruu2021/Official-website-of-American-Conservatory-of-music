@@ -10,6 +10,7 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 - 学术型学位专业主要有：音乐理论（music theory）（国内叫作曲理论）、音乐学（musicology）、民族音乐（ethno-musicology）<br>
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
+- 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
 ## A 
 ## B 
 - **宾夕法尼亚大学**[音乐系](https://music.sas.upenn.edu)<br>
@@ -78,8 +79,8 @@ msmnyc.edu
 smtd.umich.edu
 - **密歇根州立大学**[音乐学院](https://music.msu.edu)<br>
 music.msu.edu
-- **明尼苏达大学**[音乐学院](https://cla.umm.edu/music)<br>
-cla.umm.edu/music
+- **明尼苏达大学**[音乐学院](https://cla.umn.edu/music)<br>
+cla.umn.edu/music
 ## N 
 - **南加州大学**[桑顿音乐学院](https://music.usc.edu)<br>
 music.usc.edu
@@ -127,8 +128,8 @@ music.illinois.edu
 music.indiana.edu
 - **犹他大学**[音乐学院](https://music.utah.edu)<br>
 music.utah.edu
-- **约翰霍普金斯大学**[皮博迪音乐学院](https://peabody.just.edu)<br>
-peabody.just.edu
+- **约翰霍普金斯大学**[皮博迪音乐学院](https://peabody.jhu.edu)<br>
+peabody.jhu.edu
 ## Z 
 - **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
 music.uchicago.edu
