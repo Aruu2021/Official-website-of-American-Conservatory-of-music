@@ -28,109 +28,109 @@ music.duke.edu
 - **俄亥俄州立大学**[音乐学院](https://music.osu.edu)<br>
 music.osu.edu
 ## F 
-- **佛罗里达州立大学**音乐学院<br>
-music.FSU.edu
+- **佛罗里达州立大学**[音乐学院](https://music.fsu.edu)<br>
+music.fsu.edu
 ## G 
-- **哥伦比亚大学**音乐系（全奖）<br>
-www.music.columbia.edu
+- **哥伦比亚大学**[音乐系](https://music.columbia.edu)（全奖）<br>
+music.columbia.edu
 ## H 
-- **哈佛大学**音乐系（全奖）<br>
-www.music.fas.Harvard.edu
-- **华盛顿大学**音乐学院<br>
-www.music.washington.edu
+- **哈佛大学**[音乐系](https://music.fas.harvard.edu)（全奖）<br>
+music.fas.harvard.edu
+- **华盛顿大学**[音乐学院](https://music.washington.edu)<br>
+music.washington.edu
 ## J 
-- **加州大学伯克利分校**音乐系<br>
+- **加州大学伯克利分校**[音乐系](https://music.berkeley.edu)<br>
 music.berkeley.edu
-- **加州大学洛杉矶分校**赫布阿尔伯特音乐学院<br>
-www.schoolofmusic.UCLA.edu
-- **加州大学圣地亚哥分校**音乐系<br>
-music-CMS.UCSD.edu
-- **旧金山音乐学院**<br>
-www.sfcm.edu
+- **加州大学洛杉矶分校**[赫布阿尔伯特音乐学院](https://schoolofmusic.ucla.edu)<br>
+schoolofmusic.ucla.edu
+- **加州大学圣地亚哥分校**[音乐系](https://music-cms.ucsd.edu)<br>
+music-cms.ucsd.edu
+- [旧金山音乐学院](https://sfcm.edu)<br>
+sfcm.edu
 ## K 
-- **卡耐基梅隆大学**音乐学院<br>
-www.cmu.edu/cfa/music
-- **康奈尔大学**音乐系<br>
-www.music.Cornell.edu
-- **科蒂斯音乐学院**（无博士项目）<br>
-www.Curtis.edu
-- **科尔本音乐学院**<br>
-www.colburnschool.edu
-- **克利夫兰音乐学院**<br>
-www.cim.edu
+- **卡耐基梅隆大学**[音乐学院](https://cmu.edu/cfa/music)<br>
+cmu.edu/cfa/music
+- **康奈尔大学**[音乐系](https://music.cornell.edu)<br>
+music.cornell.edu
+- [科蒂斯音乐学院](https://curtis.edu)（无博士项目）<br>
+curtis.edu
+- [科尔本音乐学院](https://colburnschool.edu)<br>
+colburnschool.edu
+- [克利夫兰音乐学院](https://cim.edu)<br>
+cim.edu
 ## L 
-- **莱斯大学**牧羊人音乐学院<br>
-www.music.rice.edu
-- **罗彻斯特大学**伊斯曼音乐学院<br>
-www.esm.rochester.edu
-- **罗彻斯特大学**亚瑟萨茨音乐系<br>
-www.sas.rochester.edu/mur
+- **莱斯大学**[牧羊人音乐学院](https://music.rice.edu)<br>
+music.rice.edu
+- **罗彻斯特大学**[伊斯曼音乐学院](https://esm.rochester.edu)<br>
+esm.rochester.edu
+- **罗彻斯特大学**[亚瑟萨茨音乐系](https://sas.rochester.edu/mur)<br>
+sas.rochester.edu/mur
 ## M 
-- **马里兰大学**音乐学院<br>
-music.UMD.edu
-- **麻省大学阿默斯特分校**音乐舞蹈系（无博士项目）<br>
-www.UMass.edu/music
-- **麻省理工大学**音乐与戏剧艺术系（不招生）<br>
+- **马里兰大学**[音乐学院](https://music.umd.edu)<br>
+music.umd.edu
+- **麻省大学阿默斯特分校**[音乐舞蹈系](https://umass.edu/music)（无博士项目）<br>
+umass.edu/music
+- **麻省理工大学**[音乐与戏剧艺术系](https://mta.mit.edu)<br>
 mta.mit.edu
-- **曼哈顿音乐学院**<br>
-www.MSMNYC.edu
-- **密歇根大学**音乐、戏剧与舞蹈学院<br>
+- [曼哈顿音乐学院](https://msmnyc.edu)<br>
+msmnyc.edu
+- **密歇根大学**[音乐、戏剧与舞蹈学院](https://smtd.umich.edu)<br>
 smtd.umich.edu
-- **密歇根州立大学**音乐学院<br>
-www.music.msu.edu
-- **明尼苏达大学**音乐学院<br>
+- **密歇根州立大学**[音乐学院](https://music.msu.edu)<br>
+music.msu.edu
+- **明尼苏达大学**[音乐学院](https://cla.umm.edu/music)<br>
 cla.umm.edu/music
 ## N 
-- **南加州大学**桑顿音乐学院<br>
-music.USC.edu
-- **纽约大学**音乐系<br>
-www.as.nyu.edu/music.html
-- **纽约市立大学皇后学院**阿隆科普兰音乐学院<br>
+- **南加州大学**[桑顿音乐学院](https://music.usc.edu)<br>
+music.usc.edu
+- **纽约大学**[音乐系](https://as.nyu.edu/music.html)<br>
+as.nyu.edu/music.html
+- **纽约市立大学皇后学院**[阿隆科普兰音乐学院](https://qcpages.QC.CUNY.edu/music)<br>
 qcpages.QC.CUNY.edu/music
-- **纽约市立大学城市学院**音乐系<br>
-ccny.cuny.edu.music
-- **纽约市立大学研究生中心**音乐研究中心（音乐博士项目）<br>
+- **纽约市立大学城市学院**[音乐系](https://www.ccny.cuny.edu/music)<br>
+ccny.cuny.edu/music
+- **纽约市立大学研究生中心**[音乐研究中心](https://www.gc.cuny.edu/music)（音乐博士项目）<br>
 gc.CUNY.edu/music
 ## O 
-- **欧柏林音乐学院**<br>
-www.oberlin.edu/conservatory
+- [欧柏林音乐学院](https://oberlin.edu/conservatory)<br>
+oberlin.edu/conservatory
 ## P 
-- **普林斯顿大学**音乐系（全奖）<br>
-www.music.princeton.edu
+- **普林斯顿大学**[音乐系](https://music.princeton.edu)（全奖）<br>
+music.princeton.edu
 ## Q 
 ## R 
 ## S 
-- **斯坦福大学**音乐系<br>
+- **斯坦福大学**[音乐系](https://music.stanford.edu)<br>
 music.stanford.edu
 ## T 
 ## W 
-- **威斯康星大学麦迪逊分校**米德威特音乐学院<br>
-www.music.wisc.edu
+- **威斯康星大学麦迪逊分校**[米德威特音乐学院](https://music.wisc.edu)<br>
+music.wisc.edu
 ## X 
-- **西北大学**本尼音乐学院<br>
-www.music.northwestern.edu
-- **辛辛那提大学**音乐学院<br>
-www.CCM.UC.edu
-- **新英格兰音乐学院**<br>
-www.necmusic.edu
+- **西北大学**[本尼音乐学院](https://music.northwestern.edu)<br>
+music.northwestern.edu
+- **辛辛那提大学**[音乐学院](https://ccm.uc.edu)<br>
+ccm.uc.edu
+- [新英格兰音乐学院](https://necmusic.edu)<br>
+necmusic.edu
 提供学位：MM/DMA
-- **雪城大学**赛特诺音乐学院（无博士项目）<br>
+- **雪城大学**[赛特诺音乐学院](https://vpa.syr.edu/academics/music)（无博士项目）<br>
 vpa.syr.edu/academics/music
 ## Y 
-- **耶鲁大学**音乐系（全奖）<br>
+- **耶鲁大学**[音乐系](https://yalemusic.yale.edu)（全奖）<br>
 yalemusic.yale.edu
-- **耶鲁大学**音乐学院（全奖）<br>
+- **耶鲁大学**[音乐学院](https://music.yale.edu)（全奖）<br>
 music.yale.edu
-- **伊利诺伊大学香槟分校**音乐学院（无理论博士）<br>
-www.music.Illinois.edu
-- **印第安纳大学**雅各布音乐学院<br>
-www.music.Indiana.edu
-- **犹他大学**音乐学院<br>
-www.music.Utah.edu
-- **约翰霍普金斯大学**皮博迪音乐学院<br>
-Peabody.just.edu
+- **伊利诺伊大学香槟分校**[音乐学院](https://music.illinois.edu)（无理论博士）<br>
+music.illinois.edu
+- **印第安纳大学**[雅各布音乐学院](https://music.indiana.edu)<br>
+music.indiana.edu
+- **犹他大学**[音乐学院](https://music.utah.edu)<br>
+music.utah.edu
+- **约翰霍普金斯大学**[皮博迪音乐学院](https://peabody.just.edu)<br>
+peabody.just.edu
 ## Z 
-- **芝加哥大学**音乐系<br>
+- **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
 music.uchicago.edu
-- **茱莉亚音乐学院**（无博士项目）<br>
-www.Juilliard.edu
+- [茱莉亚音乐学院](https://juilliard.edu)（无博士项目）<br>
+juilliard.edu
