@@ -39,6 +39,8 @@ music.columbia.edu
 ## H 
 - **哈佛大学**[音乐系](https://music.fas.harvard.edu)（全奖）<br>
 music.fas.harvard.edu
+- **哈特福德大学**[哈特音乐学院](https://www.hartford.edu/academics/schools-colleges/hartt/default.aspx)<br>
+www.hartford.edu/academics/schools-colleges/hartt/default.aspx
 - **华盛顿大学**[音乐学院](https://music.washington.edu)<br>
 music.washington.edu
 ## J 
@@ -108,6 +110,8 @@ music.stanford.edu
 - **石溪大学**[音乐系](https://www.stonybrook.edu/music)<br>
 www.stonybrook.edu/music
 ## T 
+- **天普大学**[博耶音乐与舞蹈学院](https://boyer.temple.edu)<br>
+boyer.temple.edu
 ## W 
 - **威斯康星大学麦迪逊分校**[米德威特音乐学院](https://music.wisc.edu)<br>
 music.wisc.edu
@@ -119,6 +123,8 @@ ccm.uc.edu
 - [新英格兰音乐学院](https://necmusic.edu)<br>
 necmusic.edu
 提供学位：MM/DMA
+- **休斯顿大学**[摩尔音乐学院](https://www.uh.edu/kgmca/music)<br>
+www.uh.edu/kgmca/music
 - **雪城大学**[赛特诺音乐学院](https://vpa.syr.edu/academics/music)（无博士项目）<br>
 vpa.syr.edu/academics/music
 ## Y 
