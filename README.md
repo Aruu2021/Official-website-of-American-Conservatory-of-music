@@ -12,7 +12,7 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 ## A 
 ## B 
-- **宾夕法尼亚大学**[音乐系](music.sas.upenn.edu)<br>
+- **宾夕法尼亚大学**[音乐系](https://music.sas.upenn.edu)<br>
 music.sas.upenn.edu
 - **宾夕法尼亚州立大学**音乐学院<br>
 www.music.PSU.edu
