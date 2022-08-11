@@ -14,19 +14,19 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 ## B 
 - **宾夕法尼亚大学**[音乐系](https://music.sas.upenn.edu)<br>
 music.sas.upenn.edu
-- **宾夕法尼亚州立大学**音乐学院<br>
-www.music.PSU.edu
-- **布朗大学**音乐系<br>
+- **宾夕法尼亚州立大学**[音乐学院](https://music.psu.edu)<br>
+music.psu.edu
+- **布朗大学**[音乐系](https://music.brown.edu)<br>
 music.brown.edu
 ## C 
 ## D 
-- **德克萨斯大学奥斯汀分校**巴特勒音乐学院<br>
-www.music.utexas.edu
-- **杜克大学**音乐系<br>
-www.music.duke.edu
+- **德克萨斯大学奥斯汀分校**[巴特勒音乐学院](https://music.utexas.edu)<br>
+music.utexas.edu
+- **杜克大学**[音乐系](https://music.duke.edu)<br>
+music.duke.edu
 ## E 
-- **俄亥俄州立大学**音乐学院<br>
-www.music.OSU.edu
+- **俄亥俄州立大学**[音乐学院](https://music.osu.edu)<br>
+music.osu.edu
 ## F 
 - **佛罗里达州立大学**音乐学院<br>
 music.FSU.edu
