@@ -13,6 +13,8 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
 ## A 
 ## B 
+- **北卡罗莱纳大学教堂山分校**[音乐系](https://music.unc.edu)<br>
+music.unc.edu
 - **宾夕法尼亚大学**[音乐系](https://music.sas.upenn.edu)<br>
 music.sas.upenn.edu
 - **宾夕法尼亚州立大学**[音乐学院](https://music.psu.edu)<br>
@@ -42,7 +44,7 @@ music.washington.edu
 ## J 
 - **加州大学伯克利分校**[音乐系](https://music.berkeley.edu)<br>
 music.berkeley.edu
-- **加州大学洛杉矶分校**[赫布阿尔伯特音乐学院](https://schoolofmusic.ucla.edu)<br>
+- **加州大学洛杉矶分校**[赫伯阿尔伯特音乐学院](https://schoolofmusic.ucla.edu)<br>
 schoolofmusic.ucla.edu
 - **加州大学圣地亚哥分校**[音乐系](https://music-cms.ucsd.edu)<br>
 music-cms.ucsd.edu
@@ -135,7 +137,7 @@ peabody.jhu.edu
 ## Z 
 - **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
 music.uchicago.edu
-- **佐治亚理工大学**[音乐学院] (https://music.gatech.edu)<br>
+- **佐治亚理工大学**[音乐学院](https://music.gatech.edu)<br>
 music.gatech.edu
 - [茱莉亚音乐学院](https://juilliard.edu)（无博士项目）<br>
 juilliard.edu
