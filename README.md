@@ -11,7 +11,7 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校83所（持续更新）
+- 目前收录学校88所（持续更新）
 ## A 
 - **爱荷华大学**[音乐学院](https://music.uiowa.edu)<br>
 music.uiowa.edu
@@ -20,6 +20,8 @@ music.iastate.edu
 - **埃默里大学**[音乐系](https://music.emory.edu)<br>
 music.emory.edu
 ## B 
+- **北德克萨斯大学**[音乐学院](https://music.unt.edu)<br>
+music.unt.edu
 - **北卡罗莱纳大学教堂山分校**[音乐系](https://music.unc.edu)<br>
 music.unc.edu
 - **宾夕法尼亚大学**[音乐系](https://music.sas.upenn.edu)<br>
@@ -38,6 +40,8 @@ music.brown.edu
 music.dartmouth.edu
 - **德克萨斯大学奥斯汀分校**[巴特勒音乐学院](https://music.utexas.edu)<br>
 music.utexas.edu
+- **迪堡大学**[音乐学院](https://www.depauw.edu/music)<br>
+depauw.edu/music
 - **杜克大学**[音乐系](https://music.duke.edu)<br>
 music.duke.edu
 - **杜兰大学**[纽科姆音乐系](https://liberalarts.tulane.edu/departments/music)<br>
@@ -99,12 +103,16 @@ colorado.edu/music
 ## L 
 - **莱斯大学**[牧羊人音乐学院](https://music.rice.edu)<br>
 music.rice.edu
+- **林恩大学**[音乐学院](https://www.lynn.edu/academics/colleges/conservatory)<br>
+lynn.edu/academics/colleges/conservatory
 - **罗彻斯特大学**[伊斯曼音乐学院](https://esm.rochester.edu)<br>
 esm.rochester.edu
 - **罗彻斯特大学**[亚瑟萨茨音乐系](https://sas.rochester.edu/mur)<br>
 sas.rochester.edu/mur
 - **罗格斯大学**[梅森格罗斯艺术学院音乐系](https://www.masongross.rutgers.edu/degrees-programs/music)<br>
 masongross.rutgers.edu/degrees-programs/music
+- **罗斯福大学**[音乐学院](https://www.roosevelt.edu/colleges/ccpa/music-conservatory)<br>
+roosevelt.edu/colleges/ccpa/music-conservatory
 ## M 
 - **马里兰大学**[音乐学院](https://music.umd.edu)<br>
 music.umd.edu
@@ -116,6 +124,8 @@ mta.mit.edu
 miamioh.edu/cca/academics/departments/music
 - [曼哈顿音乐学院](https://msmnyc.edu)<br>
 msmnyc.edu
+- [曼尼斯音乐学院](https://www.newschool.edu/mannes)<br>
+newschool.edu/mannes
 - **密苏里大学**[音乐学院](https://music.missouri.edu)<br>
 music.missouri.edu
 - **密歇根大学**[音乐、戏剧与舞蹈学院](https://smtd.umich.edu)<br>
