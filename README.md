@@ -11,7 +11,7 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校88所（持续更新）
+- 目前收录学校93所（持续更新）
 ## A 
 - **爱荷华大学**[音乐学院](https://music.uiowa.edu)<br>
 music.uiowa.edu
@@ -75,10 +75,20 @@ music.washington.edu
 ## J 
 - **加州大学伯克利分校**[音乐系](https://music.berkeley.edu)<br>
 music.berkeley.edu
+- **加州大学戴维斯分校**[音乐系](https://arts.ucdavis.edu/music)<br>
+arts.ucdavis.edu/music
+- **加州大学尔湾分校**[特雷弗艺术学院音乐系](https://music.arts.uci.edu)<br>
+music.arts.uci.edu
+- **加州大学河滨分校**[音乐系](https://music.ucr.edu)<br>
+music.ucr.edu
 - **加州大学洛杉矶分校**[赫伯阿尔伯特音乐学院](https://schoolofmusic.ucla.edu)<br>
 schoolofmusic.ucla.edu
 - **加州大学圣地亚哥分校**[音乐系](https://music-cms.ucsd.edu)<br>
 music-cms.ucsd.edu
+- **加州大学圣克鲁兹分校**[音乐系](https://music.ucsc.edu)<br>
+music.ucsc.edu
+- **加州大学圣塔芭芭拉分校**[音乐系](https://music.ucsb.edu)<br>
+music.ucsb.edu
 - [旧金山音乐学院](https://sfcm.edu)<br>
 sfcm.edu
 ## K 
