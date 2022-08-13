@@ -11,8 +11,10 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校56所（持续更新）
+- 目前收录学校62所（持续更新）
 ## A 
+- **爱荷华大学**[音乐学院](https://music.uiowa.edu)<br>
+music.uiowa.edu
 ## B 
 - **北卡罗莱纳大学教堂山分校**[音乐系](https://music.unc.edu)<br>
 music.unc.edu
@@ -20,6 +22,8 @@ music.unc.edu
 music.sas.upenn.edu
 - **宾夕法尼亚州立大学**[音乐学院](https://music.psu.edu)<br>
 music.psu.edu
+- **波士顿大学**[音乐学院](https://www.bu.edu/cfa/music)<br>
+www.bu.edu/cfa/music
 - **布朗大学**[音乐系](https://music.brown.edu)<br>
 music.brown.edu
 ## C 
@@ -78,6 +82,8 @@ music.umd.edu
 umass.edu/music
 - **麻省理工大学**[音乐与戏剧艺术系](https://mta.mit.edu)<br>
 mta.mit.edu
+- **迈阿密大学牛津分校**[音乐系](https://www.miamioh.edu/cca/academics/departments/music)<br>
+www.miamioh.edu/cca/academics/departments/music
 - [曼哈顿音乐学院](https://msmnyc.edu)<br>
 msmnyc.edu
 - **密歇根大学**[音乐、戏剧与舞蹈学院](https://smtd.umich.edu)<br>
@@ -97,10 +103,18 @@ qcpages.QC.CUNY.edu/music
 ccny.cuny.edu/music
 - **纽约市立大学研究生中心**[音乐研究中心](https://www.gc.cuny.edu/music)（音乐博士项目）<br>
 gc.CUNY.edu/music
+- **纽约州立大学宾汉顿分校**[音乐系](https://www.binghamton.edu/music/index.html)<br>
+www.binghamton.edu/music/index.html
+- **纽约州立大学布法罗分校**[音乐系](https://arts-sciences.buffalo.edu/music.html)<br>
+arts-sciences.buffalo.edu/music.html
+- **纽约州立大学石溪分校**[音乐系](https://www.stonybrook.edu/music)<br>
+www.stonybrook.edu/music
 ## O 
 - [欧柏林音乐学院](https://oberlin.edu/conservatory)<br>
 oberlin.edu/conservatory
 ## P 
+- **匹兹堡大学**[音乐系](https://www.music.pitt.edu)<br>
+www.music.pitt.edu
 - **普林斯顿大学**[音乐系](https://music.princeton.edu)（全奖）<br>
 music.princeton.edu
 ## Q 
@@ -108,8 +122,6 @@ music.princeton.edu
 ## S 
 - **斯坦福大学**[音乐系](https://music.stanford.edu)<br>
 music.stanford.edu
-- **石溪大学**[音乐系](https://www.stonybrook.edu/music)<br>
-www.stonybrook.edu/music
 ## T 
 - **天普大学**[博耶音乐与舞蹈学院](https://boyer.temple.edu)<br>
 boyer.temple.edu
