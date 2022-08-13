@@ -11,12 +11,14 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校76所（持续更新）
+- 目前收录学校83所（持续更新）
 ## A 
 - **爱荷华大学**[音乐学院](https://music.uiowa.edu)<br>
 music.uiowa.edu
 - **爱荷华州立大学**[音乐与戏剧系](https://www.music.iastate.edu)<br>
-www.music.iastate.edu
+music.iastate.edu
+- **埃默里大学**[音乐系](https://music.emory.edu)<br>
+music.emory.edu
 ## B 
 - **北卡罗莱纳大学教堂山分校**[音乐系](https://music.unc.edu)<br>
 music.unc.edu
@@ -25,7 +27,9 @@ music.sas.upenn.edu
 - **宾夕法尼亚州立大学**[音乐学院](https://music.psu.edu)<br>
 music.psu.edu
 - **波士顿大学**[音乐学院](https://www.bu.edu/cfa/music)<br>
-www.bu.edu/cfa/music
+bu.edu/cfa/music
+- **布兰迪斯大学**[音乐系](https://www.brandeis.edu/music)<br>
+brandeis.edu/music
 - **布朗大学**[音乐系](https://music.brown.edu)<br>
 music.brown.edu
 ## C 
@@ -36,18 +40,22 @@ music.dartmouth.edu
 music.utexas.edu
 - **杜克大学**[音乐系](https://music.duke.edu)<br>
 music.duke.edu
+- **杜兰大学**[纽科姆音乐系](https://liberalarts.tulane.edu/departments/music)<br>
+liberalarts.tulane.edu/departments/music
 ## E 
 - **俄亥俄州立大学**[音乐学院](https://music.osu.edu)<br>
 music.osu.edu
 - **俄勒冈大学**[音乐与舞蹈学院](https://music.uoregon.edu)<br>
 music.uoregon.edu
 ## F 
+- **范德堡大学**[布莱尔音乐学院](https://blair.vanderbilt.edu)<br>
+blair.vanderbilt.edu
 - **佛罗里达大学**[音乐学院](https://arts.ufl.edu/academics/music)<br>
 arts.ufl.edu/academics/music
 - **佛罗里达州立大学**[音乐学院](https://music.fsu.edu)<br>
 music.fsu.edu
 - **佛蒙特大学**[音乐系](https://www.uvm.edu/cas/music)<br>
-www.uvm.edu/cas/music
+uvm.edu/cas/music
 - **弗吉尼亚大学**[麦金太音乐系](https://music.virginia.edu)<br>
 music.virginia.edu
 ## G 
@@ -57,7 +65,7 @@ music.columbia.edu
 - **哈佛大学**[音乐系](https://music.fas.harvard.edu)（全奖）<br>
 music.fas.harvard.edu
 - **哈特福德大学**[哈特音乐学院](https://www.hartford.edu/academics/schools-colleges/hartt/default.aspx)<br>
-www.hartford.edu/academics/schools-colleges/hartt/default.aspx
+hartford.edu/academics/schools-colleges/hartt/default.aspx
 - **华盛顿大学**[音乐学院](https://music.washington.edu)<br>
 music.washington.edu
 ## J 
@@ -72,6 +80,8 @@ sfcm.edu
 ## K 
 - **卡耐基梅隆大学**[音乐学院](https://cmu.edu/cfa/music)<br>
 cmu.edu/cfa/music
+- **凯斯西储大学**[音乐系](https://case.edu/artsci/music)<br>
+case.edu/artsci/music
 - **堪萨斯大学**[音乐学院](https://music.ku.edu)<br>
 music.ku.edu
 - **康奈尔大学**[音乐系](https://music.cornell.edu)<br>
@@ -85,7 +95,7 @@ colburnschool.edu
 - [克利夫兰音乐学院](https://cim.edu)<br>
 cim.edu
 - **科罗拉多大学博尔德分校**[音乐学院](https://www.colorado.edu/music)<br>
-www.colorado.edu/music
+colorado.edu/music
 ## L 
 - **莱斯大学**[牧羊人音乐学院](https://music.rice.edu)<br>
 music.rice.edu
@@ -94,7 +104,7 @@ esm.rochester.edu
 - **罗彻斯特大学**[亚瑟萨茨音乐系](https://sas.rochester.edu/mur)<br>
 sas.rochester.edu/mur
 - **罗格斯大学**[梅森格罗斯艺术学院音乐系](https://www.masongross.rutgers.edu/degrees-programs/music)<br>
-www.masongross.rutgers.edu/degrees-programs/music
+masongross.rutgers.edu/degrees-programs/music
 ## M 
 - **马里兰大学**[音乐学院](https://music.umd.edu)<br>
 music.umd.edu
@@ -103,7 +113,7 @@ umass.edu/music
 - **麻省理工大学**[音乐与戏剧艺术系](https://mta.mit.edu)<br>
 mta.mit.edu
 - **迈阿密大学牛津分校**[音乐系](https://www.miamioh.edu/cca/academics/departments/music)<br>
-www.miamioh.edu/cca/academics/departments/music
+miamioh.edu/cca/academics/departments/music
 - [曼哈顿音乐学院](https://msmnyc.edu)<br>
 msmnyc.edu
 - **密苏里大学**[音乐学院](https://music.missouri.edu)<br>
@@ -126,27 +136,31 @@ ccny.cuny.edu/music
 - **纽约市立大学研究生中心**[音乐研究中心](https://www.gc.cuny.edu/music)（音乐博士项目）<br>
 gc.CUNY.edu/music
 - **纽约州立大学宾汉顿分校**[音乐系](https://www.binghamton.edu/music/index.html)<br>
-www.binghamton.edu/music/index.html
+binghamton.edu/music/index.html
 - **纽约州立大学布法罗分校**[音乐系](https://arts-sciences.buffalo.edu/music.html)<br>
 arts-sciences.buffalo.edu/music.html
 - **纽约州立大学石溪分校**[音乐系](https://www.stonybrook.edu/music)<br>
-www.stonybrook.edu/music
+stonybrook.edu/music
 ## O 
 - [欧柏林音乐学院](https://oberlin.edu/conservatory)<br>
 oberlin.edu/conservatory
 ## P 
 - **匹兹堡大学**[音乐系](https://www.music.pitt.edu)<br>
-www.music.pitt.edu
+music.pitt.edu
 - **普林斯顿大学**[音乐系](https://music.princeton.edu)（全奖）<br>
 music.princeton.edu
 ## Q 
 ## R 
 ## S 
+- **圣路易斯华盛顿大学**[音乐系](https://music.wustl.edu)<br>
+music.wustl.edu
 - **斯坦福大学**[音乐系](https://music.stanford.edu)<br>
 music.stanford.edu
 ## T 
+- **塔夫茨大学**[音乐系](https://as.tufts.edu/music)<br>
+as.tufts.edu/music
 - **特拉华大学**[音乐学院](https://www.music.udel.edu)<br>
-www.music.udel.edu
+music.udel.edu
 - **天普大学**[博耶音乐与舞蹈学院](https://boyer.temple.edu)<br>
 boyer.temple.edu
 ## W 
@@ -161,7 +175,7 @@ ccm.uc.edu
 necmusic.edu
 提供学位：MM/DMA
 - **休斯顿大学**[摩尔音乐学院](https://www.uh.edu/kgmca/music)<br>
-www.uh.edu/kgmca/music
+uh.edu/kgmca/music
 - **雪城大学**[赛特诺音乐学院](https://vpa.syr.edu/academics/music)（无博士项目）<br>
 vpa.syr.edu/academics/music
 ## Y 
@@ -183,7 +197,7 @@ peabody.jhu.edu
 - **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
 music.uchicago.edu
 - **佐治亚大学**[休·霍奇森音乐学院](https://www.music.uga.edu)<br>
-www.music.uga.edu
+music.uga.edu
 - **佐治亚理工大学**[音乐学院](https://music.gatech.edu)<br>
 music.gatech.edu
 - [茱莉亚音乐学院](https://juilliard.edu)（无博士项目）<br>
