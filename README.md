@@ -11,7 +11,7 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校72所（持续更新）
+- 目前收录学校76所（持续更新）
 ## A 
 - **爱荷华大学**[音乐学院](https://music.uiowa.edu)<br>
 music.uiowa.edu
@@ -30,7 +30,7 @@ www.bu.edu/cfa/music
 music.brown.edu
 ## C 
 ## D 
-- - **达特茅斯学院**[音乐系](https://music.dartmouth.edu)<br>
+- **达特茅斯学院**[音乐系](https://music.dartmouth.edu)<br>
 music.dartmouth.edu
 - **德克萨斯大学奥斯汀分校**[巴特勒音乐学院](https://music.utexas.edu)<br>
 music.utexas.edu
@@ -46,6 +46,8 @@ music.uoregon.edu
 arts.ufl.edu/academics/music
 - **佛罗里达州立大学**[音乐学院](https://music.fsu.edu)<br>
 music.fsu.edu
+- **佛蒙特大学**[音乐系](https://www.uvm.edu/cas/music)<br>
+www.uvm.edu/cas/music
 - **弗吉尼亚大学**[麦金太音乐系](https://music.virginia.edu)<br>
 music.virginia.edu
 ## G 
@@ -74,6 +76,8 @@ cmu.edu/cfa/music
 music.ku.edu
 - **康奈尔大学**[音乐系](https://music.cornell.edu)<br>
 music.cornell.edu
+- **康涅狄格大学**[音乐系](https://music.uconn.edu)<br>
+music.uconn.edu
 - [科蒂斯音乐学院](https://curtis.edu)（无博士项目）<br>
 curtis.edu
 - [科尔本音乐学院](https://colburnschool.edu)<br>
@@ -141,6 +145,8 @@ music.princeton.edu
 - **斯坦福大学**[音乐系](https://music.stanford.edu)<br>
 music.stanford.edu
 ## T 
+- **特拉华大学**[音乐学院](https://www.music.udel.edu)<br>
+www.music.udel.edu
 - **天普大学**[博耶音乐与舞蹈学院](https://boyer.temple.edu)<br>
 boyer.temple.edu
 ## W 
@@ -176,6 +182,8 @@ peabody.jhu.edu
 ## Z 
 - **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
 music.uchicago.edu
+- **佐治亚大学**[休·霍奇森音乐学院](https://www.music.uga.edu)<br>
+www.music.uga.edu
 - **佐治亚理工大学**[音乐学院](https://music.gatech.edu)<br>
 music.gatech.edu
 - [茱莉亚音乐学院](https://juilliard.edu)（无博士项目）<br>
