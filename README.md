@@ -1,5 +1,5 @@
 # Official-website-of-American-Conservatory-of-music
-- 按中文校名第一个字的拼音排序，如果第一个字的拼音相同则类推到下一个字
+- 排序原则：首先按各州英文名称排序（首都华盛顿例外），州内综合大学参考各榜单按大学综合排名排序（注意，排名靠前的综合大学不代表其下属音乐学院靠前），独立音乐学院与综合大学分开，放在后面，按办学水平排序
 - 通常情况下，美国的综合大学主要开设研究型专业，而独立音乐学院（如柯蒂斯）主要开设实践型专业，独立音乐学院一般是没有博士项目的（特别是没有PHD）
 - 一些综合大学（特别是像哈佛、普林斯顿这样的名校）只开设音乐系（department of music），规模较小，以理论研究为主，专业以无外乎音乐理论、音乐学、民族音乐之类，通常都有博士项目
 - 另一些综合大学，开设音乐学院，这种学院往往比较庞大，既有大量实践型专业，也开设研究型专业并提供博士学位
@@ -10,15 +10,21 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 - 学术型学位专业主要有：音乐理论（music theory）（国内叫作曲理论）、音乐学（musicology）、民族音乐（ethno-musicology）<br>
 专业型学位专业主要有：作曲、指挥、声乐、器乐、音乐教育等
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
+- 标识示意：AAU：指美国大学协会成员，包括66所大学（其中含两所加拿大的高校），类似于中国的985大学；公立常春藤；私立常春藤
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校101所（持续更新）
+- 目前收录学校112所（持续更新）
+
+## 00 Washington D.C. 华盛顿哥伦比亚特区
 
 ## 01	Alabama	阿拉巴马州
 
 ## 02	Alaska 阿拉斯加州
+- **阿拉斯加大学费尔班克斯分校**[音乐系](https://www.uaf.edu/music)<br>
+uaf.edu/music
 
 ## 03	Arizona 亚利桑那州
 - **亚利桑那大学**[弗雷德福克斯音乐学院](https://music.arizona.edu)<br>
+公立/AAU
 music.arizona.edu
 - **亚利桑那州立大学**[音乐舞蹈与戏剧学院](https://musicdancetheatre.asu.edu)<br>
 musicdancetheatre.asu.edu
@@ -27,24 +33,34 @@ musicdancetheatre.asu.edu
 
 ## 05	California 加利福尼亚州
 - **斯坦福大学**[音乐系](https://music.stanford.edu)<br>
+私立/AAU
 music.stanford.edu
 - **加州大学伯克利分校**[音乐系](https://music.berkeley.edu)<br>
+公立/AAU
 music.berkeley.edu
 - **加州大学洛杉矶分校**[赫伯阿尔伯特音乐学院](https://schoolofmusic.ucla.edu)<br>
+公立/AAU
 schoolofmusic.ucla.edu
 - **南加州大学**[桑顿音乐学院](https://music.usc.edu)<br>
+私立/AAU
 music.usc.edu
 - **加州大学圣地亚哥分校**[音乐系](https://music-cms.ucsd.edu)<br>
+公立/AAU
 music-cms.ucsd.edu
+- **加州大学圣塔芭芭拉分校**[音乐系](https://music.ucsb.edu)<br>
+公立/AAU
 - **加州大学戴维斯分校**[音乐系](https://arts.ucdavis.edu/music)<br>
+公立/AAU
 arts.ucdavis.edu/music
 - **加州大学尔湾分校**[特雷弗艺术学院音乐系](https://music.arts.uci.edu)<br>
+公立/AAU
 music.arts.uci.edu
 - **加州大学河滨分校**[音乐系](https://music.ucr.edu)<br>
 music.ucr.edu
 - **加州大学圣克鲁兹分校**[音乐系](https://music.ucsc.edu)<br>
+公立/AAU
 music.ucsc.edu
-- **加州大学圣塔芭芭拉分校**[音乐系](https://music.ucsb.edu)<br>
+
 music.ucsb.edu
 - **加州州立理工大学**[音乐系](https://music.calpoly.edu)<br>
 music.calpoly.edu
@@ -61,8 +77,10 @@ colorado.edu/music
 
 ## 07	Connecticut 康涅狄格州
 - **耶鲁大学**[音乐系](https://yalemusic.yale.edu)（全奖）<br>
+私立/纽黑文/AAU
 yalemusic.yale.edu
 - **耶鲁大学**[音乐学院](https://music.yale.edu)（全奖）<br>
+私立/📍纽黑文/AAU
 music.yale.edu
 - **哈特福德大学**[哈特音乐学院](https://www.hartford.edu/academics/schools-colleges/hartt/default.aspx)<br>
 hartford.edu/academics/schools-colleges/hartt/default.aspx
@@ -90,11 +108,14 @@ music.uga.edu
 music.gatech.edu
 
 ## 11	Hawaii 夏威夷州
+- **夏威夷大学马诺分校**[音乐系](https://manoa.hawaii.edu/music)<br>
+manoa.hawaii.edu/music
 
 ## 12	Idaho	爱达荷州
 
 ## 13	Illinois 伊利诺斯州
 - **芝加哥大学**[音乐系](https://music.uchicago.edu)<br>
+AAU
 music.uchicago.edu
 - **西北大学**[本尼音乐学院](https://music.northwestern.edu)<br>
 music.northwestern.edu
@@ -108,6 +129,9 @@ roosevelt.edu/colleges/ccpa/music-conservatory
 music.indiana.edu
 - **迪堡大学**[音乐学院](https://www.depauw.edu/music)<br>
 depauw.edu/music
+- **圣母大学**[音乐系](https://music.nd.edu)<br>
+宗教氛围浓厚
+music.nd.edu
 
 ## 15	Iowa 爱荷华州
 - **爱荷华大学**[音乐学院](https://music.uiowa.edu)<br>
@@ -122,6 +146,8 @@ music.ku.edu
 k-state.edu/mtd/music
 
 ## 17	Kentucky 肯塔基州
+- **肯塔基大学**[音乐学院](https://finearts.uky.edu/music)<br>
+finearts.uky.edu/music
 
 ## 18	Louisiana	路易斯安那州
 - **杜兰大学**[纽科姆音乐系](https://liberalarts.tulane.edu/departments/music)<br>
@@ -131,14 +157,17 @@ liberalarts.tulane.edu/departments/music
 
 ## 20	Maryland 马里兰州
 - **约翰霍普金斯大学**[皮博迪音乐学院](https://peabody.jhu.edu)<br>
+AAU
 peabody.jhu.edu
 - **马里兰大学**[音乐学院](https://music.umd.edu)<br>
 music.umd.edu
 
 ## 21	Massachusetts	马萨诸塞州
 - **哈佛大学**[音乐系](https://music.fas.harvard.edu)（全奖）<br>
+私立/📍波士顿/AAU
 music.fas.harvard.edu
 - **麻省理工大学**[音乐与戏剧艺术系](https://mta.mit.edu)<br>
+私立/📍波士顿/
 mta.mit.edu
 - [新英格兰音乐学院](https://necmusic.edu)<br>
 necmusic.edu
@@ -155,6 +184,7 @@ umass.edu/music
 
 ## 22	Michigan 密歇根州
 - **密歇根大学**[音乐、戏剧与舞蹈学院](https://smtd.umich.edu)<br>
+AAU
 smtd.umich.edu
 - **密歇根州立大学**[音乐学院](https://music.msu.edu)<br>
 music.msu.edu
@@ -183,14 +213,18 @@ music.dartmouth.edu
 
 ## 30	New Jersey 新泽西州
 - **普林斯顿大学**[音乐系](https://music.princeton.edu)（全奖）<br>
+私立/📍普林斯顿/AAU
 music.princeton.edu
 - **罗格斯大学**[梅森格罗斯艺术学院音乐系](https://www.masongross.rutgers.edu/degrees-programs/music)<br>
 masongross.rutgers.edu/degrees-programs/music
 
 ## 31	New Mexico 新墨西哥州
+- **新墨西哥大学**[音乐系](https://music.unm.edu)<br>
+music.unm.edu
 
 ## 32	New York 纽约州
 - **哥伦比亚大学**[音乐系](https://music.columbia.edu)（全奖）<br>
+私立/📍纽约/AAU
 music.columbia.edu
 - **纽约大学**[音乐系](https://as.nyu.edu/music.html)<br>
 as.nyu.edu/music.html
@@ -213,6 +247,7 @@ arts-sciences.buffalo.edu/music.html
 - **纽约州立大学石溪分校**[音乐系](https://www.stonybrook.edu/music)<br>
 stonybrook.edu/music
 - **康奈尔大学**[音乐系](https://music.cornell.edu)<br>
+AAU
 music.cornell.edu
 - **雪城大学**[赛特诺音乐学院](https://vpa.syr.edu/academics/music)（无博士项目）<br>
 vpa.syr.edu/academics/music
@@ -230,6 +265,8 @@ music.duke.edu
 music.unc.edu
 - **北卡罗莱纳州立大学**[音乐系](https://music.dasa.ncsu.edu)<br>
 music.dasa.ncsu.edu
+- **维克森林大学**[音乐系](https://music.wfu.edu)<br>
+music.wfu.edu
 
 ## 34	North Dakota 北达科他州
 
@@ -248,6 +285,8 @@ oberlin.edu/conservatory
 cim.edu
 
 ## 36	Oklahoma 俄克拉荷马州
+- **俄克拉荷马大学**[音乐学院](https://www.ou.edu/finearts/music)<br>
+ou.edu/finearts/music
 
 ## 37	Oregon 俄勒冈州
 - **俄勒冈大学**[音乐与舞蹈学院](https://music.uoregon.edu)<br>
@@ -258,6 +297,7 @@ liberalarts.oregonstate.edu/svpda/music
 
 ## 38	Pennsylvania 宾夕法尼亚州
 - **宾夕法尼亚大学**[音乐系](https://music.sas.upenn.edu)<br>
+私立/📍费城/AAU
 music.sas.upenn.edu
 - **卡耐基梅隆大学**[音乐学院](https://cmu.edu/cfa/music)<br>
 cmu.edu/cfa/music
@@ -267,6 +307,8 @@ music.psu.edu
 music.pitt.edu
 - **天普大学**[博耶音乐与舞蹈学院](https://boyer.temple.edu)<br>
 boyer.temple.edu
+- **理海大学**[音乐系](https://music.cas.lehigh.edu)<br>
+music.cas.lehigh.edu
 - [科蒂斯音乐学院](https://curtis.edu)（无博士项目）<br>
 curtis.edu
 
@@ -281,6 +323,10 @@ music.brown.edu
 ## 42	Tennessee	田纳西州
 - **范德堡大学**[布莱尔音乐学院](https://blair.vanderbilt.edu)<br>
 blair.vanderbilt.edu
+- **田纳西大学**[音乐学院](https://music.utk.edu)<br>
+music.utk.edu
+- **里士满大学**[音乐系](https://music.richmond.edu)<br>
+music.richmond.edu
 
 ## 43	Texas	得克萨斯州
 - **莱斯大学**[牧羊人音乐学院](https://music.rice.edu)<br>
@@ -295,6 +341,9 @@ uh.edu/kgmca/music
 ## 44	Utah 犹他州
 - **犹他大学**[音乐学院](https://music.utah.edu)<br>
 music.utah.edu
+- **杨百翰大学**[音乐学院](https://music.byu.edu)<br>
+宗教氛围浓厚
+music.byu.edu
 
 ## 45	Vermont	佛蒙特州
 - **佛蒙特大学**[音乐系](https://www.uvm.edu/cas/music)<br>
@@ -317,7 +366,8 @@ music.wsu.edu
 music.wisc.edu
 
 ## 50	Wyoming 怀俄明州
-
+- **怀俄明大学**[音乐系](https://www.uwyo.edu/music)<br>
+uwyo.edu/music
 
 
 
