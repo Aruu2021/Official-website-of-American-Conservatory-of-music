@@ -12,7 +12,7 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 - 作曲主要是提供专业型学位，也有一些大学（比如哈佛）会提供学术型作曲学位，这种类型的作曲专业一般倾向于对前沿音响的探索而非商业化写作。音乐教育专业同样也有专业与学术之分。
 - 标识示意：AAU：指美国大学协会成员，包括66所大学（其中含两所加拿大的高校），类似于中国的985大学；PL：公立常春藤，类似于AAU但都是公立学校。这类标识并不代表该校音乐学院水平，比如辛辛那提和佛罗里达州立都有强大的音乐学院，但没有这些头衔。
 - 点击校名蓝色处即可进入学校官网，若无法进入则复制网址到浏览器打开
-- 目前收录学校112所（持续更新）
+- 目前收录学校118所（持续更新）
 
 
 ## 00 Washington D.C. 华盛顿哥伦比亚特区
@@ -20,6 +20,11 @@ undergraduate（本科学历）：BA（学术型学士学位）BM（专业型学
 
 ## 01	Alabama	阿拉巴马州
 
+- **阿拉巴马大学**[音乐学院](https://music.ua.edu)<br>
+music.ua.edu
+
+- **奥本大学**[音乐系](https://cla.auburn.edu/music)<br>
+cla.auburn.edu/music
 
 ## 02	Alaska 阿拉斯加州
 
@@ -38,6 +43,9 @@ musicdancetheatre.asu.edu
 
 
 ## 04	Arkansas 阿肯色州
+
+- **阿肯色大学**[音乐系](https://fulbright.uark.edu/departments/music)<br>
+fulbright.uark.edu/departments/music
 
 
 ## 05	California 加利福尼亚州
@@ -116,8 +124,6 @@ music.uconn.edu
 
 - **哈特福德大学**[哈特音乐学院](https://www.hartford.edu/academics/schools-colleges/hartt/default.aspx)<br>
 hartford.edu/academics/schools-colleges/hartt/default.aspx
-
-
 
 
 ## 08	Delaware 特拉华州
@@ -229,6 +235,9 @@ finearts.uky.edu/music
 私立/AAU<br>
 liberalarts.tulane.edu/departments/music
 
+- **路易斯安那州立大学**[音乐学院](https://www.lsu.edu/cmda/music)<br>
+lsu.edu/cmda/music
+
 
 ## 19	Maine	缅因州
 
@@ -273,6 +282,7 @@ umass.edu/music
 necmusic.edu
 提供学位：MM/DMA
 
+
 ## 22	Michigan 密歇根州
 
 - **密歇根大学**[音乐、戏剧与舞蹈学院](https://smtd.umich.edu)<br>
@@ -293,6 +303,9 @@ cla.umn.edu/music
 
 ## 24	Mississippi	密西西比州
 
+- **密西西比大学**[音乐系](https://music.olemiss.edu)<br>
+music.olemiss.edu
+
 
 ## 25	Missouri 密苏里州
 
@@ -309,6 +322,9 @@ music.missouri.edu
 
 
 ## 27	Nebraska 内布拉斯加州
+
+- **内布拉斯加大学林肯分校**[格伦科夫音乐学院](https://arts.unl.edu/music)<br>
+arts.unl.edu/music
 
 
 ## 28	Nevada 内华达州
