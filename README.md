@@ -403,7 +403,7 @@ qcpages.QC.CUNY.edu/music
 - **纽约市立大学城市学院**[音乐系](https://www.ccny.cuny.edu/music)<br>
 ccny.cuny.edu/music
 
-- [茱莉亚音乐学院](https://juilliard.edu)（无博士项目）<br>
+- [茱莉亚音乐学院](https://juilliard.edu)<br>
 juilliard.edu
 
 - [曼哈顿音乐学院](https://msmnyc.edu)<br>
@@ -500,7 +500,7 @@ boyer.temple.edu
 - **理海大学**[音乐系](https://music.cas.lehigh.edu)<br>
 music.cas.lehigh.edu
 
-- [科蒂斯音乐学院](https://curtis.edu)（无博士项目）<br>
+- [科蒂斯音乐学院](https://curtis.edu)<br>
 curtis.edu
 
 
